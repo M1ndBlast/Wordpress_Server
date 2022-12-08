@@ -1,0 +1,1 @@
+echo "php_value upload_max_filesize 128M" >> ./html/.htaccess
